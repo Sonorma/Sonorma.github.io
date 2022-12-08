@@ -120,10 +120,12 @@ table, th, td {
 }
 
 footer{
+    font-family: 'Oswald', serif;
     padding-left: 1rem;
 }
 
 .footer a{
+    font-family: 'Oswald', serif;
     font-size: 1.2rem;
     text-decoration: none;
     color: white;
